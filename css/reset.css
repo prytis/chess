@@ -1,0 +1,15 @@
+body,
+body * {
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+    box-sizing: border-box;
+    font-family: open sans;
+    word-break: break-all;
+}
+body * {
+    display: inline-block;
+}
+script{
+    display: none;
+}
